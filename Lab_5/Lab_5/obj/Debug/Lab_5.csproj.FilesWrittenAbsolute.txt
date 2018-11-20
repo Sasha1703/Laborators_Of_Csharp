@@ -1,0 +1,5 @@
+/home/darkness/RiderProjects/Lab_5/Lab_5/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/darkness/RiderProjects/Lab_5/Lab_5/bin/Debug/Lab_5.exe.mdb
+/home/darkness/RiderProjects/Lab_5/Lab_5/bin/Debug/Lab_5.exe
+/home/darkness/RiderProjects/Lab_5/Lab_5/obj/Debug/Lab_5.exe
+/home/darkness/RiderProjects/Lab_5/Lab_5/obj/Debug/Lab_5.exe.mdb

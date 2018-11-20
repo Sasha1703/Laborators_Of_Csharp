@@ -1,0 +1,5 @@
+/home/darkness/RiderProjects/Laba_7/Laba_7/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/darkness/RiderProjects/Laba_7/Laba_7/bin/Debug/Laba_7.exe.mdb
+/home/darkness/RiderProjects/Laba_7/Laba_7/bin/Debug/Laba_7.exe
+/home/darkness/RiderProjects/Laba_7/Laba_7/obj/Debug/Laba_7.exe
+/home/darkness/RiderProjects/Laba_7/Laba_7/obj/Debug/Laba_7.exe.mdb
