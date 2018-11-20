@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_PractikaC.-908079369.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="PractikaC" t="IncludeRecursive">
+        <e p="PractikaC.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Task1" t="Include">
+            <e p="Customer.cs" t="Include" />
+            <e p="Product.cs" t="Include" />
+            <e p="Wallet.cs" t="Include" />
+          </e>
+          <e p="Task2" t="Include">
+            <e p="American.cs" t="Include" />
+            <e p="Human.cs" t="Include" />
+            <e p="Poland.cs" t="Include" />
+            <e p="Ukrainian.cs" t="Include" />
+          </e>
+          <e p="Task3" t="Include">
+            <e p="SuperHero.cs" t="Include" />
+            <e p="SuperHeroImpl.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="PractikaC.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

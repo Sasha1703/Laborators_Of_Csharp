@@ -1,0 +1,5 @@
+/home/darkness/RiderProjects/PractikaC/PractikaC/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/darkness/RiderProjects/PractikaC/PractikaC/bin/Debug/PractikaC.exe.mdb
+/home/darkness/RiderProjects/PractikaC/PractikaC/bin/Debug/PractikaC.exe
+/home/darkness/RiderProjects/PractikaC/PractikaC/obj/Debug/PractikaC.exe
+/home/darkness/RiderProjects/PractikaC/PractikaC/obj/Debug/PractikaC.exe.mdb
